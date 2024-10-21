@@ -1,4 +1,5 @@
 ![image](https://github.com/user-attachments/assets/38151b74-3e92-4d16-a354-990776c65068)
+
 Hello,
 
 As a car enthusiast, I noticed that nobody had created a drag race monitor for Forza Horizon 5, so I decided to make my own and share it with the Forza Horizon 5 community.
