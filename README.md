@@ -12,7 +12,8 @@ To use this Python script, you need to configure the data-out IP and port. These
 
 The next step is to install the additional libraries required in Python and run the script. To install them, use Pip in the terminal or search online for instructions.
 
-This script can also be used with an Xbox, you need to add the IP and PORT as described above and run the Python script on a Computer.
+This script can also be used with an Xbox. You need to add the IP and PORT as described above, but you must change the IP to your computer’s IP address in the Forza settings and on the 18th line of the Python script, then run the Python script on a computer.
+
 note: to do this the Xbox needs to be on the same network as the computer.
 
 This is an open-source project, so feel free to make your own adjustments.
